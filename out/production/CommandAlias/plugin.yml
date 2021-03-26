@@ -1,0 +1,18 @@
+name: CommandAlias
+main: dev.BSDevelopment.CommandAlias.Main
+version: 1.0.0
+author: BSDevelopment
+api-version: 1.16
+description: A command Alias plugin that allows you to shorten commands
+
+commands:
+  warpzone:
+    description: Teleports you to the warp npcs
+    aliases: wz
+  flatworld:
+    description: Teleports you to flatworld
+    alias: fw
+  crates:
+    description: Teleports you to crates
+
+
