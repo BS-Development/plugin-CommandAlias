@@ -32,6 +32,7 @@ public class Main extends JavaPlugin {
         }
         else if(label.equalsIgnoreCase("fw") || label.equalsIgnoreCase("flatworld")){
             player.chat("/warp flatworld");
+            player.chat("/rtp");
             return true;
 
 
