@@ -11,7 +11,7 @@ commands:
     aliases: wz
   flatworld:
     description: Teleports you to flatworld
-    alias: fw
+    aliases: fw
   crates:
     description: Teleports you to crates
 
